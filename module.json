@@ -1,0 +1,17 @@
+{
+  "id": "tnt-custom-sheet",
+  "title": "Tests and Trials Custom Sheet",
+  "description": "Custom character sheet for Tests and Trials mechanics.",
+  "version": "0.1.0",
+  "authors": [{"name": "Your Name"}],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "esmodules": ["js/tnt-sheet.js"],
+  "styles": ["css/tnt-sheet.css"],
+  "coreVersion": "11",
+  "url": "https://your-repo-url",
+  "manifest": "https://your-repo-url/module.json",
+  "download": "https://your-repo-url/archive.zip"
+}
